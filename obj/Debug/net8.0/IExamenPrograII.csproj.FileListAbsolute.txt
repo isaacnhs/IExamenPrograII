@@ -1,0 +1,14 @@
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\bin\Debug\net8.0\IExamenPrograII.exe
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\bin\Debug\net8.0\IExamenPrograII.deps.json
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\bin\Debug\net8.0\IExamenPrograII.runtimeconfig.json
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\bin\Debug\net8.0\IExamenPrograII.dll
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\bin\Debug\net8.0\IExamenPrograII.pdb
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\obj\Debug\net8.0\IExamenPrograII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\obj\Debug\net8.0\IExamenPrograII.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\obj\Debug\net8.0\IExamenPrograII.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\obj\Debug\net8.0\IExamenPrograII.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\obj\Debug\net8.0\IExamenPrograII.dll
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\obj\Debug\net8.0\refint\IExamenPrograII.dll
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\obj\Debug\net8.0\IExamenPrograII.pdb
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\obj\Debug\net8.0\IExamenPrograII.genruntimeconfig.cache
+C:\Users\Isaac\source\repos\IExamenPrograII\IExamenPrograII\obj\Debug\net8.0\ref\IExamenPrograII.dll
